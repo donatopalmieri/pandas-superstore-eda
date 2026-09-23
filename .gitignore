@@ -1,0 +1,22 @@
+# Ambienti Virtuali (Virtual Environments)
+myenv/
+venv/
+env/
+.venv/
+
+# Configurazione IDE ed Editor
+.vscode/
+.idea/
+
+# File di dati pesanti o grezzi
+data/
+*.csv
+
+# Cache e file temporanei di Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# File di sistema operativo
+.DS_Store
+Thumbs.db
