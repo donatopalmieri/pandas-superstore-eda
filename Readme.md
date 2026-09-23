@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 1. **Clonare il repository:**
    ```bash
-   git clone https://github.com/<tuo-username>/pandas-superstore-eda.git
+   git clone https://github.com/donatopalmieri/pandas-superstore-eda.git
    cd pandas-superstore-eda
    ```
 
@@ -128,5 +128,5 @@ pip install -r requirements.txt
 
 Sviluppato come progetto di portfolio per Data Analysis & Data Science in Pandas.
 
-* **GitHub:** [@tuo-username](https://github.com/tuo-username)
+* **GitHub:** [@donatopalmieri](https://github.com/donatopalmieri)
 * **License:** MIT
